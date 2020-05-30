@@ -11,15 +11,7 @@ namespace GitDemo2
         static void Main(string[] args)
         {
 
-            //abc config chnGE
-
-            // new test case of brach 101
-            //abc
-
-            //new tests for 102
-            // finshed the tests
-
-            // new tests for cr103
+    // first
         }
     }
 }
